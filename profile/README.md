@@ -1,12 +1,12 @@
 # 🦋 DaGama: ReDiscovery of your world 🌍
 
-App with the best recommended places to visit. Find hidden gems on the community-generated map. 🌊🏝
+Eccosystem with the best recommended places to visit. Find hidden gems on the community-generated map. 🌊🏝
 
 ![daGama.World Adventure](https://github.com/daGama/.github/raw/main/images/banner.jpg)
 
 ## Who we are 🗼
 
-daGama is a post-to-earn travel-tech app that compiles recommendations from a global DAO-community of discoverers. We simplify and improve user experience through personalized AI selections of the best places. 🎡🏰
+daGama is a post-to-earn travel-tech eccosystem that compiles recommendations from a global DAO-community of discoverers. We simplify and improve user experience through personalized AI selections of the best places. 🎡🏰
 
 ## daGama mission 🏖
 
