@@ -23,7 +23,7 @@ The project's idea emerged from a real "pain point." When discovering a new city
 Only one challenge remained: how to incentivize people to share their unique discoveries. The solution was found in the DEFI concept of Post-to-Earn. Community users recommend points of interest, and DAO consciousness evaluates their quality. The most active members of the community receive rewards in DaGama tokens. 🧘‍♀️🏂
 
 ## Development track: 🍾
-[← Follow the Dev track](https://github.com/daGama/.github/blob/main/dev_track.md)
+[← Follow the Dev track](dev_track.md)
 
 ## Join the Adventure Today! 🪂
 
