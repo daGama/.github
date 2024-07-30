@@ -33,7 +33,8 @@ Only one challenge remained: how to incentivize people to share their unique dis
 
 ## Product Updates 🚀
 
-**19 July - ** Anti-fake system: We have prepared the initial implementation of our anti-fake system, which consists of dozens of modules. It evaluates content, its creator and reviewer according to various criteria in order to filter quality content as accurately as possible. The system uses a unique fingerprint to prevent rating spoofing through multiple reviews, comments and likes, without interfering with the main functions of the app.
+19 July.
+Anti-fake system: We have prepared the initial implementation of our anti-fake system, which consists of dozens of modules. It evaluates content, its creator and reviewer according to various criteria in order to filter quality content as accurately as possible. The system uses a unique fingerprint to prevent rating spoofing through multiple reviews, comments and likes, without interfering with the main functions of the app.
 
 
 ## Stay Updated 📬
