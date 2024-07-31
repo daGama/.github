@@ -37,7 +37,7 @@ Only one challenge remained: how to incentivize people to share their unique dis
 
 ## Release notes 📖
 
-25 July. Registration via mail. Displaying errors in the profile. Dubai - 59 points have been added (the result of the work of the auditors). Acceleration of map loading. Updating the feed with a swipe. Redesign and corrections of layout flaws. The Anti-fake system. Image recycling
+25 July. In this release, we have implemented: Registration via mail. Displaying errors in the profile. Dubai - 59 points have been added (the result of the work of the auditors). Acceleration of map loading. Updating the feed with a swipe. Redesign and corrections of layout flaws. The Anti-fake system. Image resize.
 
 ## Stay Updated 📬
 
