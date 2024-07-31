@@ -37,7 +37,7 @@ Only one challenge remained: how to incentivize people to share their unique dis
 
 ## Release notes 📖
 
-25 July. This release includes mail registration, profile errors display, Dubai 59 points added, map loading acceleration, swipe feed updates, layout flaw redesign, anti-fake system, and image resize.
+25 July. This release includes mail registration, Dubai 59 points added, map loading acceleration, swipe feed updates, layout flaw redesign, anti-fake system, and image resize.
 
 ## Stay Updated 📬
 
