@@ -1,26 +1,26 @@
 # 🦋 DaGama: ReDiscovery of your world 🌍
 
-App with the best recommended places to visit. Find hidden gems on the community-generated map. 🌊🏝
+Consumer app with the best-recommended places to visit. Find hidden gems on the community-created map. 🌊🏝
 
 ![daGama.World Adventure](https://github.com/daGama/.github/raw/main/images/banner.jpg)
 
 ## Who we are 🗼
 
-daGama is a post-to-earn travel-tech app that compiles recommendations from a global DAO-community of discoverers. We simplify and improve user experience through personalized AI selections of the best places. 🎡🏰
+daGama is a consumer app for Real World Locations (RWL) that leverages blockchain and AI technology to create a map with trusted recommendations. 🎡🏰
 
 ## daGama mission 🏖
 
-Our mission is to forge a global community where participants share their discoveries and quality recommendations, earning rewards in DaGama tokens. Businesses will distinguish themselves not through marketing alone but by the quality of their service and products. 🌋🏜
+Our mission is to rebuild trust in online reviews by forging a global community where participants share their discoveries and quality recommendations, earning rewards in DaGama tokens. 🌋🏜
 
-Together, we are shaping a people's map of recommendations, enabling each participant to travel like a local and become a discoverer of exceptional places. 🗽🎎
+daGama creates a user-generated map with recommendations from a worldwide community, ensuring the authenticity of every location and recommendation with our multi-level anti-fake system. Using "Post and Earn" mechanics, we set a new market trend for 2024/2025, making the sharing of experiences both rewarding and reliable. 🗽🎎
 
 ## daGama story 🥀
 
-The name of the application "daGama" carries historical significance, as it is associated with the great 15th-century explorer Vasco da Gama. The choice of this name symbolizes the spirit of discovery and adventure, akin to how Vasco da Gama charted new maritime routes and horizons. 🧗🏻‍♂️🚣🏻‍♀️
+Hey, I'm Gabriel Hattar, and I'll share with you where the idea for our project came from. 🧗🏻‍♂️🚣🏻‍♀️
 
-The project's idea emerged from a real "pain point." When discovering a new city, one desires to visit interesting local spots preferred by the residents and enjoy high-quality services favored by locals. However, mainstream travel guides and services often highlight touristy places, and businesses sometimes prioritize marketing over the quality of their services. This led to the concept of creating a "community map" of intriguing locations and quality services. 🏄‍♂️🏄‍♀️
+My friend and I are avid travelers. Once, we booked a house in Cyprus through a well-known accommodation service. The reviews praised it as a quiet spot just 100 meters from a sandy beach, with nearby restaurants and shops, and it had almost a 5-star rating. But in reality, there was a busy highway next door, a massive construction site, and instead of a sandy beach, a dirty wasteland. The restaurants were far away, requiring a car rental costing around €500–700 a week. We also tried a seafood restaurant with great reviews from another popular review service. People raved about the fresh seafood from a famous chef. Despite the 40-minute wait hinting at an amazing experience, when our dishes arrived, they were just cheap, battered fish. At that moment, we realized we'd been duped by misleading reviews. 🏄‍♂️🏄‍♀️
 
-Only one challenge remained: how to incentivize people to share their unique discoveries. The solution was found in the DEFI concept of Post-to-Earn. Community users recommend points of interest, and DAO consciousness evaluates their quality. The most active members of the community receive rewards in DaGama tokens. 🧘‍♀️🏂
+After a disappointing experience, I asked a local guy to mark places with delicious food on a map. From then on, everything was tasty and affordable. This inspired me to create an app where you can quickly find great spots based on genuine reviews and recommendations from people who share your tastes and preferences. 🧘‍♀️🏂
 
 ## Development track: 🍾
 [← Follow the Dev track](dev_track.md)
@@ -50,4 +50,4 @@ Only one challenge remained: how to incentivize people to share their unique dis
 
 ---
 
-Join daGama.World and be part of a travel revolution! 🚀✨ Your journey starts here.
+Join daGama.World and be part of a RWL revolution! 🚀✨ Your journey starts here.
