@@ -33,9 +33,7 @@ After a disappointing experience, I asked a local guy to mark places with delici
 
 ## Product Updates 🚀
 
-15 June. ChatGPT text auto-translation
-from various languages to English
-UserX integration
+15 June. AI-based text auto-translation from various languages to English UX analytics tool to make our interface better
 
 Started: The development of AI for the MLAFS (Multi-Level
 Anti-fake System) has begun. This system is designed to protect against fraud
