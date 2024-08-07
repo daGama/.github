@@ -33,6 +33,24 @@ After a disappointing experience, I asked a local guy to mark places with delici
 
 ## Product Updates 🚀
 
+15 June. ChatGPT text auto-translation
+from various languages to English
+UserX integration
+
+Started: The development of AI for the MLAFS (Multi-Level
+Anti-fake System) has begun. This system is designed to protect against fraud
+
+24 June. App registration via email
+UI design changes based on tester feedback
+Fingerprint authentication
+Location ranking in the feed
+
+10 July. We optimized the CI/CD pipeline, streamlining the integration of new features from developers into the application and significantly reducing release cycles.
+By optimizing the CI/CD pipeline, we accelerated the delivery of new features by enhancing the integration process between developers and the application
+
+17 July. UX/UI. Based on insights from alpha testers, we've significantly overhauled the process of creating new places and posts, making it more intuitive and user-friendly
+Anti-fake system. We've released our first version of an anti-fake system, composed of dozens of modules. One analyzes content, another the author, and so on. The system also employs a unique user-device fingerprint to prevent rating manipulation through multiple reviews, comments, and likes, while not interfering with core app functionality
+
 19 July. Anti-fake system: We have prepared the initial implementation of our anti-fake system, which consists of dozens of modules. It evaluates content, its creator and reviewer according to various criteria in order to filter quality content as accurately as possible. The system uses a unique fingerprint to prevent rating spoofing through multiple reviews, comments and likes, without interfering with the main functions of the app.
 
 ## Release notes 📖
