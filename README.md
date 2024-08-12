@@ -33,27 +33,29 @@ After a disappointing experience, I asked a local guy to mark places with delici
 
 ## Product Updates 🚀
 
-15 June. AI-based text auto-translation from various languages to English UX analytics tool to make our interface better
+June 15. AI-based text auto-translation from various languages to English UX analytics tool to make our interface better
 
 Started: The development of AI for the MLAFS (Multi-Level
 Anti-fake System) has begun. This system is designed to protect against fraud
 
-24 June. App registration via email
+June 24. App registration via email
 UI design changes based on tester feedback
 Fingerprint authentication
 Location ranking in the feed
 
-10 July. We optimized the CI/CD pipeline, streamlining the integration of new features from developers into the application and significantly reducing release cycles.
+July 10. We optimized the CI/CD pipeline, streamlining the integration of new features from developers into the application and significantly reducing release cycles.
 By optimizing the CI/CD pipeline, we accelerated the delivery of new features by enhancing the integration process between developers and the application
 
-17 July. UX/UI. Based on insights from alpha testers, we've significantly overhauled the process of creating new places and posts, making it more intuitive and user-friendly
+July 17. UX/UI. Based on insights from alpha testers, we've significantly overhauled the process of creating new places and posts, making it more intuitive and user-friendly
 Anti-fake system. We've released our first version of an anti-fake system, composed of dozens of modules. One analyzes content, another the author, and so on. The system also employs a unique user-device fingerprint to prevent rating manipulation through multiple reviews, comments, and likes, while not interfering with core app functionality
 
-19 July. Anti-fake system: We have prepared the initial implementation of our anti-fake system, which consists of dozens of modules. It evaluates content, its creator and reviewer according to various criteria in order to filter quality content as accurately as possible. The system uses a unique fingerprint to prevent rating spoofing through multiple reviews, comments and likes, without interfering with the main functions of the app.
+July 19. Anti-fake system: We have prepared the initial implementation of our anti-fake system, which consists of dozens of modules. It evaluates content, its creator and reviewer according to various criteria in order to filter quality content as accurately as possible. The system uses a unique fingerprint to prevent rating spoofing through multiple reviews, comments and likes, without interfering with the main functions of the app.
 
 ## Release notes 📖
 
-25 July. This release includes mail registration, Dubai 59 points added, map loading acceleration, swipe feed updates, layout flaw redesign, anti-fake system, and image resize.
+July 25. This release includes mail registration, Dubai 59 points added, map loading acceleration, swipe feed updates, layout flaw redesign, anti-fake system, and image resize.
+
+August 9. We implemented a 1-stage user wallet (first version of the wallet on the backend) and made it possible to authorize using SSO registration (single sign-on with apple\google).
 
 ## Stay Updated 📬
 
