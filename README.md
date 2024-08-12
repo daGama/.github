@@ -55,7 +55,8 @@ July 19. Anti-fake system: We have prepared the initial implementation of our an
 
 July 25. This release includes mail registration, Dubai 59 points added, map loading acceleration, swipe feed updates, layout flaw redesign, anti-fake system, and image resize.
 
-August 9. We implemented a 1-stage user wallet (first version of the wallet on the backend) and made it possible to authorize using SSO registration (single sign-on with apple\google).
+August 6. We implemented a 1-stage user wallet (first version of the wallet on the backend) and made it possible to authorize using SSO registration (single sign-on with apple\google). Added three types of ranking in the location: by popularity, time and date of creation, distance from the users location. Fixed bugs that occurred when users created memos
+
 
 ## Stay Updated 📬
 
