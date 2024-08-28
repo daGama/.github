@@ -51,12 +51,13 @@ Anti-fake system. We've released our first version of an anti-fake system, compo
 
 July 19. Anti-fake system: We have prepared the initial implementation of our anti-fake system, which consists of dozens of modules. It evaluates content, its creator and reviewer according to various criteria in order to filter quality content as accurately as possible. The system uses a unique fingerprint to prevent rating spoofing through multiple reviews, comments and likes, without interfering with the main functions of the app.
 
+August 6. Single Sign-On (SSO) authentication. Three types of ranking in the location: by popularity, time and date of creation, distance from the users location. Fixed bugs that occurred when users created memos
+
+August 23. Now all reviewed places added by users are saved in the blockchain. In addition we create an NFT given to the user. Added conversion app points to daGama tokens and vice versa.
+
 ## Release notes 📖
 
 July 25. This release includes mail registration, Dubai 59 points added, map loading acceleration, swipe feed updates, layout flaw redesign, anti-fake system, and image resize.
-
-August 6. Single Sign-On (SSO) authentication. Three types of ranking in the location: by popularity, time and date of creation, distance from the users location. Fixed bugs that occurred when users created memos
-
 
 ## Stay Updated 📬
 
