@@ -65,7 +65,8 @@ July 25. This release includes mail registration, Dubai 59 points added, map loa
 ## Stay Updated 📬
 
 - [Pitchdeck] [← Open Pitchdeck](dev_track.md)
-- [Twitter](https://twitter.com/dagama_world): Follow us for the latest news. 
+- [Twitter](https://twitter.com/dagama_world): Follow us for the latest news.
+- [Telegram](https://t.me/da_ga_ma): Follow us in Telegram app. 
 - [Instagram](https://instagram.com/dagamaWorld): See the world through our lens. 
 - [Discord](https://discord.gg/dagama): Join our Discord community. 
 - [Facebook](https://facebook.com/dagama.World): Join our global community. 
