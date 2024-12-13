@@ -55,6 +55,8 @@ August 6. Single Sign-On (SSO) authentication. Three types of ranking in the loc
 
 August 23. Now all reviewed places added by users are saved in the blockchain. In addition we create an NFT given to the user. Added conversion app points to daGama tokens and vice versa.
 
+October 9. The app settings section has been completely updated. New settings have been added, and the interface has been made more user-friendly. Push notifications have been added.
+
 ## Release notes 📖
 
 July 25. This release includes mail registration, Dubai 59 points added, map loading acceleration, swipe feed updates, layout flaw redesign, anti-fake system, and image resize.
