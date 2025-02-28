@@ -33,8 +33,6 @@ After a disappointing experience, I asked a local guy to mark places with delici
 
 ## Product Updates 🚀
 
-## Product Updates 🚀
-
 June 15. AI-based text auto-translation from various languages to English UX analytics tool to make our interface better
 
 Started: The development of AI for the MLAFS (Multi-Level
@@ -78,8 +76,7 @@ December 5. Enhancements & New Features: Enhanced Analytics, Updated Map Icons, 
 
 December 25. Interface and Usability Enhancements; Video Improvements; Optimization and Bug Fixes.
 
-## Stay Updated 📬
-
+February 5. Check-in-Free Recommendations. Add recommendations without a check-in, highlighting places visited before joining daGama.Unverified recommendations earn 5 Credits and maintain the first discovery right. Verification occurs through auto-check-ins or community validation. Full-Screen Media Viewing. Enjoy immersive full-screen mode for all media content. View photos in greater detail to capture the atmosphere of each place. Enhanced Pre-Moderation System. Improved content filtering to maintain high-quality and reliable recommendations. UI refinements for a smoother and more intuitive user experience.
 
 ## Stay Updated 📬
 
