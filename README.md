@@ -78,6 +78,8 @@ December 25. Interface and Usability Enhancements; Video Improvements; Optimizat
 
 February 5. Check-in-Free Recommendations. Add recommendations without a check-in, highlighting places visited before joining daGama.Unverified recommendations earn 5 Credits and maintain the first discovery right. Verification occurs through auto-check-ins or community validation. Full-Screen Media Viewing. Enjoy immersive full-screen mode for all media content. View photos in greater detail to capture the atmosphere of each place. Enhanced Pre-Moderation System. Improved content filtering to maintain high-quality and reliable recommendations. UI refinements for a smoother and more intuitive user experience.
 
+March 14. Explore Without Registration: Enjoy community recommendations without signing up. Registration is only required to share opinions or contribute content. Stay Updated with Notifications: New notifications center to track updates and missed activities. See all interactions in one place for a seamless experience. Design Improvements & Bug Fixes: Enhanced UI for better navigation and improved aesthetics. Fixed minor bugs for a smoother and more reliable experience.
+
 ## Stay Updated 📬
 
 - [Pitchdeck] [← Open Pitchdeck](dev_track.md)
