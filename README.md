@@ -64,6 +64,10 @@ December 5. Referral System & User Insights: Introduced a referral system for pa
 
 December 25. Admin Panel Updates: Added referral code generation and partner statistics tracking; Introduced a "Partners" page for managing partner referrals and viewing statistics; Enabled transaction viewing within user and place cards; Updated the ReferralStatistics and ReferralTable components; Enhanced the operations table with filters, sorting, and Excel export functionality for partner referral links. Backend Enhancements: Implemented photo validation for Places/Posts and email field checks during sign-in; Added complaint reasons for reporting fake or irrelevant content; Enabled test email login functionality for reviewers; Introduced case-insensitive search capabilities; Fixed issues with new Impressions on public profiles and improved video handling.
 
+April 23. Wallet registration added, Updated recommendation flow, New UI tooltips and helper screens, General performance improvements.
+
+July 31. NFT Minting for Places, DAO Voting
+
 ## Release notes 📖
 
 July 25. This release includes mail registration, Dubai 59 points added, map loading acceleration, swipe feed updates, layout flaw redesign, anti-fake system, and image resize.
