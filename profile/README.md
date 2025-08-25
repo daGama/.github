@@ -80,6 +80,10 @@ December 5. Enhancements & New Features: Enhanced Analytics, Updated Map Icons, 
 
 December 25. Interface and Usability Enhancements; Video Improvements; Optimization and Bug Fixes.
 
+April 23. Wallet registration added, Updated recommendation flow, New UI tooltips and helper screens, General performance improvements.
+
+July 31. NFT Minting for Places, DAO Voting
+
 ## Stay Updated 📬
 
 - [Pitchdeck] [← Open Pitchdeck](dev_track.md)
