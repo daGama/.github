@@ -68,6 +68,10 @@ April 23. Wallet registration added, Updated recommendation flow, New UI tooltip
 
 July 31. NFT Minting for Places, DAO Voting
 
+September 25. $DGMA Token Listing. $DGMA listed on Gate.io and MEXC, enabling broader market access and liquidity. The listing marks an important step in expanding the daGama ecosystem and supporting protocol-level incentives. Check $DGMA token in CoinMarketCap
+
+December 29. Proof of Presence (PoP) Protocol. Infrastructure for Real-World Verification
+
 ## Release notes 📖
 
 July 25. This release includes mail registration, Dubai 59 points added, map loading acceleration, swipe feed updates, layout flaw redesign, anti-fake system, and image resize.
